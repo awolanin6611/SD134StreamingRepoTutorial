@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContentRepo", "StreamingContentRepository\StreamingContentRepo.csproj", "{F5E77AB0-01AF-40A9-BA37-1E66A82E37C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContentProgramUI", "StreamingContentUI\StreamingContentProgramUI.csproj", "{75D3BE50-F068-490E-AD93-54D268143991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E77AB0-01AF-40A9-BA37-1E66A82E37C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E77AB0-01AF-40A9-BA37-1E66A82E37C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E77AB0-01AF-40A9-BA37-1E66A82E37C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E77AB0-01AF-40A9-BA37-1E66A82E37C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D3BE50-F068-490E-AD93-54D268143991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D3BE50-F068-490E-AD93-54D268143991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D3BE50-F068-490E-AD93-54D268143991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D3BE50-F068-490E-AD93-54D268143991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

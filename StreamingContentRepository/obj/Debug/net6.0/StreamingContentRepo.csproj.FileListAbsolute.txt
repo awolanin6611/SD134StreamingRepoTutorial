@@ -1,0 +1,12 @@
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\bin\Debug\net6.0\StreamingContentRepo.deps.json
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\bin\Debug\net6.0\StreamingContentRepo.dll
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\bin\Debug\net6.0\ref\StreamingContentRepo.dll
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\bin\Debug\net6.0\StreamingContentRepo.pdb
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\obj\Debug\net6.0\StreamingContentRepo.csproj.AssemblyReference.cache
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\obj\Debug\net6.0\StreamingContentRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\obj\Debug\net6.0\StreamingContentRepo.AssemblyInfoInputs.cache
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\obj\Debug\net6.0\StreamingContentRepo.AssemblyInfo.cs
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\obj\Debug\net6.0\StreamingContentRepo.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\obj\Debug\net6.0\StreamingContentRepo.dll
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\obj\Debug\net6.0\ref\StreamingContentRepo.dll
+C:\Users\Adam\Documents\SD134ImmersionFT\RepoPatterns\RepoPatterns\StreamingContentRepository\obj\Debug\net6.0\StreamingContentRepo.pdb

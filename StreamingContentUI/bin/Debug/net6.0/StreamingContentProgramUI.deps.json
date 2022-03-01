@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StreamingContentProgramUI/1.0.0": {
+        "dependencies": {
+          "StreamingContentRepo": "1.0.0"
+        },
+        "runtime": {
+          "StreamingContentProgramUI.dll": {}
+        }
+      },
+      "StreamingContentRepo/1.0.0": {
+        "runtime": {
+          "StreamingContentRepo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamingContentProgramUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreamingContentRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
