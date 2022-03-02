@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContentRepo", "Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContentProgramUI", "StreamingContentUI\StreamingContentProgramUI.csproj", "{75D3BE50-F068-490E-AD93-54D268143991}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContentRefactoringRepo", "StreamingContentRefactor\StreamingContentRefactoringRepo.csproj", "{8E5F91E1-0A0B-47BE-B667-EDF2FDDC0E4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{75D3BE50-F068-490E-AD93-54D268143991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D3BE50-F068-490E-AD93-54D268143991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D3BE50-F068-490E-AD93-54D268143991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5F91E1-0A0B-47BE-B667-EDF2FDDC0E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5F91E1-0A0B-47BE-B667-EDF2FDDC0E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5F91E1-0A0B-47BE-B667-EDF2FDDC0E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5F91E1-0A0B-47BE-B667-EDF2FDDC0E4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
